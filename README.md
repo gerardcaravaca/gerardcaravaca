@@ -27,6 +27,4 @@ Feel free to reach out for collaborations or if you're interested in my work:
 
 # Let's innovate and make an impact together!
 
-<img src="https://raw.githubusercontent.com/gerardcaravaca/gerardcaravaca/output/snake.svg" alt="Snake animation" />
-
 

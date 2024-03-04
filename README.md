@@ -9,8 +9,8 @@
 
 ## 🌐 Academic articles
 
-- [Master Thesis](YourMasterThesisURL)
-- [Published Article](YourPublishedArticleURL)
+- [Master Thesis](https://upcommons.upc.edu/handle/2117/400780)
+- [Published Article](https://www.jto.org/article/S1556-0864(22)00406-3/fulltext#%2520)
 
 ## 📫 How to Reach Me
 

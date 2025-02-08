@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gerard Caravaca Ibañez</h1>
 <h3 align="center">An AI Engineer based in Barcelona, Spain, with a passion for pushing the boundaries of Artificial Intelligence. I specialize in deep learning, computer vision, and natural language processing (NLP).</h3>
 
-- 🔭 I’m currently working on [MobilitApp](https://mobilitapp.upc.edu/en)
+- 🔭 I’m currently working on [imotion Analytics](https://www.imotionanalytics.com/)
 
 - 🌱 I’m currently learning **Amazon Web Services and other cloud services.**
 
-- 👨‍💻 All of my projects are available at [https://gerard-caravaca-profile.netlify.app/](https://gerard-caravaca-profile.netlify.app/)
+- 👨‍💻 Some of my studies are available at [https://gerard-caravaca-profile.netlify.app/](https://gerard-caravaca-profile.netlify.app/)
 
 ## 🌐 Academic articles
 

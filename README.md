@@ -5,18 +5,9 @@ AI Engineer focused on the intersection of academic research and production envi
 
 ---
 
-### MLOps & Production Capabilities
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=mlflow&logoColor=blue)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
-
----
-
 ### Research & Publications
-* **[Artificial Intelligence in Oncology](https://www.jto.org/article/S1556-0864(22)00406-3/fulltext)**: Published in the *Journal of Thoracic Oncology*. Predictive diagnostics through Deep Learning.
-* **[Master Thesis - UPC](https://upcommons.upc.edu/handle/2117/400780)**: Advanced research in Computer Vision and Neural Networks at Universitat Politècnica de Catalunya.
+* **[Artificial Intelligence in Oncology](https://www.jto.org/article/S1556-0864(22)00406-3/fulltext)**: Published in the *Journal of Thoracic Oncology*. 
+* **[Master Thesis - UPC](https://upcommons.upc.edu/handle/2117/400780)**: Advanced research in Transport Recognition and Neural Networks at Universitat Politècnica de Catalunya.
 
 ---
 

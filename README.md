@@ -22,12 +22,6 @@ AI Engineer focused on the intersection of academic research and production envi
 
 ---
 
-### GitHub Impact
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerardcaravaca&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=52525b" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardcaravaca&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=52525b" height="150" />
-</p>
-
 ### Connectivity
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gerard-caravaca-ibañez-b28392224) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gerardcaravaca@gmail.com)

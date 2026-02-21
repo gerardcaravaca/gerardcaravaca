@@ -1,30 +1,40 @@
-<h1 align="center">Hi 👋, I'm Gerard Caravaca Ibañez</h1>
-<h3 align="center">An AI Engineer based in Barcelona, Spain, with a passion for pushing the boundaries of Artificial Intelligence. I specialize in deep learning, computer vision, and natural language processing (NLP).</h3>
+# Gerard Caravaca Ibañez
+**AI Engineer | Deep Learning & MLOps Specialist** *Barcelona, Spain*
 
-- 🔭 I’m currently working on [imotion Analytics](https://www.imotionanalytics.com/)
+AI Engineer focused on the intersection of Research and Production. I specialize in developing high-performance Deep Learning models and architecting the MLOps pipelines required to deploy, monitor, and scale them in real-world environments.
 
-- 🌱 I’m currently learning **Amazon Web Services and other cloud services.**
+---
 
-- 👨‍💻 Some of my studies are available at [https://gerard-caravaca-profile.netlify.app/](https://gerard-caravaca-profile.netlify.app/)
+### 🚀 MLOps & Production Capabilities
+I focus on bringing "DevOps" discipline to the Machine Learning lifecycle:
 
-## 🌐 Academic articles
+* **Containerization & Orchestration:** Standardizing environments with **Docker** and managing distributed inference clusters with **Kubernetes**.
+* **CI/CD for ML:** Automating model testing and deployment pipelines to ensure seamless transitions from R&D to Production.
+* **Model Registry & Versioning:** Managing experiment tracking and model lineage to ensure reproducibility across the stack.
+* **Cloud Infrastructure:** Architecting scalable AI backends on **AWS** (EC2, S3, Lambda, SageMaker) at [imotion Analytics](https://www.imotionanalytics.com/).
 
-- [Master Thesis](https://upcommons.upc.edu/handle/2117/400780)
-- [Published Article](https://www.jto.org/article/S1556-0864(22)00406-3/fulltext#%2520)
+### 🧬 Research & Publications
+* **[Artificial Intelligence in Oncology](https://www.jto.org/article/S1556-0864(22)00406-3/fulltext)**: Published in the *Journal of Thoracic Oncology*. Predictive diagnostics via Deep Learning.
+* **[Master Thesis - UPC](https://upcommons.upc.edu/handle/2117/400780)**: Advanced research in Computer Vision and Neural Networks at Universitat Politècnica de Catalunya.
 
-## 📫 How to Reach Me
+### 🛠️ Technical Stack
 
-Feel free to reach out for collaborations or if you're interested in my work:
-- 📧 Email: gerardcaravaca@gmail.com
-- 📞 Phone: +34 682324326
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / Deep Learning** | PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, YOLO |
+| **MLOps & DevOps** | **Docker**, **Kubernetes**, **CI/CD**, Git, GitHub Actions |
+| **Cloud & Data** | **AWS**, MongoDB, MySQL, Pandas, NumPy |
+| **Languages** | Python, C++, Java, Kotlin, MATLAB |
+
+---
+
+### 📈 GitHub Impact
 <p align="left">
-<a href="https://linkedin.com/in/gerard-caravaca-ibañez-b28392224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerard-caravaca-ibañez-b28392224" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gerardcaravaca&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=52525b" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardcaravaca&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=52525b" height="150" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-# Let's innovate and make an impact together!
-
-
+### 📫 Connectivity
+* **Portfolio:** [gerard-caravaca-profile.netlify.app](https://gerard-caravaca-profile.netlify.app/)
+* **LinkedIn:** [Gerard Caravaca Ibañez](https://linkedin.com/in/gerard-caravaca-ibañez-b28392224)
+* **Email:** gerardcaravaca@gmail.com
